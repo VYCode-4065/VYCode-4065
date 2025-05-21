@@ -46,7 +46,7 @@ I love building real-world web applications, solving logical problems, and conti
 ## 📫 Let's Connect!
 
 - 📧 Email: yadavvishal4065@gmail.com  
-- 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/vishal-yadav-66b630289)
+- 💼 LinkedIn: www.linkedin.com/in/vishal-yadav-66b630289
 
 ---
 
