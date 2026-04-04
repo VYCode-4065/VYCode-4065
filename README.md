@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vishal Yadav</h1>
 
 <p align="center">
-  <b>Full Stack Developer | MERN Stack | Lifelong Learner</b>  
+  <b>Full Stack Developer | MERN Stack | Next Js</b>  
 </p>
 
 <p align="center">
@@ -30,9 +30,11 @@ I enjoy creating applications that combine performance with clean design while c
 
 ### 🖥️ Frontend
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript%20(ES6%2B)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -101,21 +103,9 @@ This project highlights my understanding of full-stack development and creating 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced **Data Structures & Algorithms (DSA)**  
+- **Data Structures & Algorithms (DSA)**  
 - **System Design** principles for scalable architecture  
-- Real-time applications using **Socket.io**
 
 ---
 
-## 🏆 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VYCode-4065&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VYCode-4065&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VYCode-4065&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
